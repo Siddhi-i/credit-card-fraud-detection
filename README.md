@@ -9,7 +9,17 @@ I worked on this project to understand how machine learning can be applied to de
 
 ---
 
-## 📊 Dataset
+## 📂 Dataset
+
+The dataset is not included in this repository due to its large size.
+
+👉 [Download Dataset from Kaggle](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
+
+After downloading:
+- Extract the ZIP file  
+- Place `creditcard.csv` in the project directory  
+- Run the notebook  
+
 The dataset contains anonymized features (V1–V28), along with:
 - **Time** → Transaction time  
 - **Amount** → Transaction amount  
